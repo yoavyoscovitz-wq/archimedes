@@ -9,8 +9,6 @@
 > **Encrypt a secret message. Hide it inside a photograph. Share the image openly.**
 > Nobody will know anything is there.
 
-![Project Visual](link-to-visual-here)
-
 ---
 
 ## The Concept & Impact
